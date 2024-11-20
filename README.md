@@ -14,6 +14,7 @@ In this screenshot the textures of the house, work well together to give the pla
 ## Guidance and Orientation
 The textures I used not only give the player insight of where they can explore next.  It gives them both the opportunity to see the little details and to follow any pathway if they don’t know where to go next or get out of a certain area.
 
+![Whispers_of_the_Park_2024-11-20_11-16-06](https://github.com/user-attachments/assets/751ad72e-7462-4d2b-a4fa-448eb17d3d70)
 (A pathway in the haunted gardens leading to the main entrance of the house.) 
 
 ![Whispers_of_the_Park_2024-11-19_23-57-17](https://github.com/user-attachments/assets/d9614f99-3dff-4b81-a450-dee5f66c62be)
@@ -37,10 +38,11 @@ These two screenshots are my favorite because on the left it gives off the right
 ## Guidance and Orientation
 My goal with lighting was to guide the player to different areas on the map.  Making a certain area brighter to tell the player there might be an item there or just making an area seem darker to make it feel spooky. 
 
- 
+![Whispers_of_the_Park_2024-11-20_11-16-23](https://github.com/user-attachments/assets/bc7c670d-945a-447e-9cdb-1fbc4dbffe02)
+(Inside the haunted rivers with a path running up to the house on both sides of the house (Left side))
 
-
-(Inside the haunted rivers with a path running up to the house on both sides of the house)
+![Whispers_of_the_Park_2024-11-20_11-16-41](https://github.com/user-attachments/assets/eeb0ad3f-af5d-44f1-9729-bca872e61079)
+(Inside the haunted rivers with a path running up to the house on both sides of the house (Right side))
 
 In these two screenshots the main goal is to tell the player where to go once they have collected their items if needed.  Making the rocks bright enough to see as well as the exit back to the house.   
 
