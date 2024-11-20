@@ -6,13 +6,13 @@ My 2024 Whispers of the Park multiplayer quake map.
 
 # Texturing 
 ## Immersion and Theme
-
-
 (What to do)
 1. Briefly explain how it was a goal of yours to choose textures that evoked your theme and enhanced player immersion.
-2. Add a (unlit!) screenshot of a section of the map that particularly evokes the theme.
-3. Add a sentence or two that refers to the screenshot explaining how the specific texture work is evoking the theme.
 
+![Screenshot 2024-11-19 234208](https://github.com/user-attachments/assets/9cddb908-f98d-442b-bf72-694f8da7ac20)
+(Screenshot of the front of the haunted house)
+
+In this screenshot the textures of the house, work well together to give the player an eerie feeling with the dark walls with bordered up doors.  Giving the same feeling a real haunted house would look and feel like.  
 
 ## Guidance and Orientation
 
