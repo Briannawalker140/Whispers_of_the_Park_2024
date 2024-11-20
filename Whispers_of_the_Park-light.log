@@ -1,0 +1,32 @@
+---- light / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+LoadBSPFile: 'Whispers_of_the_Park.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from Whispers_of_the_Park.texinfo.json...
+WARNING: entity at () (worldspawn) has empty key/value "property 1" ""
+410 entities read, 358 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	296 sky faces
+	9962 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 358 initial lights
+SetupLights: 358 after surface lights
+SetupLights: 358 after jittering
+Final count: 358 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 207396
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing Whispers_of_the_Park.bsp as Quake BSP bsp29
+0.363s seconds elapsed
+0 empty lightmaps
+
+

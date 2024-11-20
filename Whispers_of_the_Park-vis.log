@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-29-gb2f23f76 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'Whispers_of_the_Park.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+  3328 leafs
+  3217 clusters
+ 11356 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 985
+c_noclip: 0
+c_chains: 3429163321
+visdatasize:810242  compressed from 1384448
+Writing Whispers_of_the_Park.bsp as Quake BSP bsp29
+1200.76s elapsed
+
+
